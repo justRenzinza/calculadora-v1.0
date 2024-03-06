@@ -1,0 +1,28 @@
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\bin\Debug\net7.0\calculadora-v1.0.exe
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\bin\Debug\net7.0\calculadora-v1.0.deps.json
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\bin\Debug\net7.0\calculadora-v1.0.runtimeconfig.json
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\bin\Debug\net7.0\calculadora-v1.0.dll
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\bin\Debug\net7.0\calculadora-v1.0.pdb
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.dll
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\obj\Debug\net7.0\refint\calculadora-v1.0.dll
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.pdb
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\testando c#\calculadora-v1.0\obj\Debug\net7.0\ref\calculadora-v1.0.dll
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\bin\Debug\net7.0\calculadora-v1.0.exe
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\bin\Debug\net7.0\calculadora-v1.0.deps.json
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\bin\Debug\net7.0\calculadora-v1.0.runtimeconfig.json
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\bin\Debug\net7.0\calculadora-v1.0.dll
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\bin\Debug\net7.0\calculadora-v1.0.pdb
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.AssemblyInfoInputs.cache
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.AssemblyInfo.cs
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.csproj.CoreCompileInputs.cache
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.dll
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\obj\Debug\net7.0\refint\calculadora-v1.0.dll
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.pdb
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\obj\Debug\net7.0\calculadora-v1.0.genruntimeconfig.cache
+C:\Users\gabriel\Desktop\calculadora-v1.0-main\calculadora-v1.0\obj\Debug\net7.0\ref\calculadora-v1.0.dll
